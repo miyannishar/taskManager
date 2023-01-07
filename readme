@@ -1,0 +1,5 @@
+get request for getAllTask
+post request for createTask
+get request for getTask
+patch request for updateTask
+delete request for deleteTask
